@@ -1,11 +1,11 @@
 {
 "name": "NoArtilleryMapReveal",
-"version": "0.1.4",
+"version": "0.1.5",
 "title": "NoArtilleryMapReveal",
 "author": "JohnTheCoolingFan",
 "contact": "https://discord.gg/grHVhE2",
 "homepage": "https://discord.gg/grHVhE2",
-"dependencies": ["base >= 0.18.0"],
+"dependencies": ["base >= 1.0.0"],
 "description": "Make artillery projectiles to not reveal map.",
-"factorio_version": "0.18"
+"factorio_version": "1.0"
 }
