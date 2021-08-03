@@ -4,3 +4,5 @@ data.raw["recipe"]["artillery-shell"].ingredients =
       {"explosives", 8}
     }
 data.raw["artillery-projectile"]["artillery-projectile"].reveal_map = false
+-- TODO: make this procedural
+data.raw['artillery-projectile']['artillery-projectile'].action.action_delivery.target_effects[4] = nil
